@@ -23,3 +23,5 @@ I thought that level of understanding was unsatisfactory, so I did this.
 
 ![schematic](https://github.com/jloughry/M1/raw/master/M1_schematic_page_1_of_2.png)
 
+![schematic](https://github.com/jloughry/M1/raw/master/M1_schematic_page_2_of_2.png)
+
