@@ -21,3 +21,5 @@ entire project had been done because of an exchange that happened in class one d
 
 I thought that level of understanding was unsatisfactory, so I did this.
 
+![schematic](https://github.com/jloughry/M1/raw/master/M1_schematic_page_1_of_2.png)
+
