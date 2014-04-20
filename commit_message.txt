@@ -1,1 +1,1 @@
-add notes on single-instruction-set computers
+make footnote marks into hyperlinks
