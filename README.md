@@ -65,3 +65,26 @@ here.  Note that it uses several convenient synthetic instructions provided by t
 A gate-level simulator, used during design of the hardware for setting timings, ran on the
 Apple ][+.
 
+RISC Reduction
+--------------
+
+I actually discovered the concept of Single Instruction Set Computing<sup>&Dagger;</sup>
+(SISC) or the One Instruction Set Computer<sup>&dagger;</sup> (OISC) independently at
+about the same time as this, according to my laboratory notebook. The single (two address)
+instruction was `decrement and branch if zero`.<sup>&Dagger;</sup> I never implemented it
+in silicon, but I designed it, and could have published first, if I had known how to at
+the time. Oh, well...
+
+Notes
+-----
+
+<a name="note-star"/><sup>*</sup>[One Instruction Set
+Computer](http://en.wikipedia.org/wiki/One_instruction_set_computer).
+
+<a name="note-dagger"/><sup>&dagger;</sup>Douglas W. Jones. "The Ultimate RISC".
+*ACM SIGARCH Computer Architecture News* **16**(3), pp. 48&ndash;55 (1988).
+
+<a name="note-double-dagger"/><sup>&Dagger;</sup>Jeff Laughton. [One-bit Computing at 60
+Hertz](http://laughtonelectronics.com/Arcana/One-bit%20computer/One-bit%20computer.html)
+(2014). Cited by [HN](https://news.ycombinator.com/item?id=7616831).
+

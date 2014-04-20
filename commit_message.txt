@@ -1,1 +1,1 @@
-commit after running `make repair-git-blame
+add notes on single-instruction-set computers
