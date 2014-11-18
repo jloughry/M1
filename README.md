@@ -1,7 +1,10 @@
 M1, a sixteen bit (very) reduced instruction set computer
 =========================================================
 
-[![photograph](https://github.com/jloughry/M1/raw/master/M1-hdr-thumb.jpeg)](https://github.com/jloughry/M1/raw/master/M1-hdr-full.jpeg)
+[![photograph](https://github.com/jloughry/M1/raw/master/M1-hdr-thumb.jpeg)]<!--
+-->(https://github.com/jloughry/M1/raw/master/M1-hdr-full.jpeg)
+
+(Click the photo for higher resolution.)
 
 System Architecture
 -------------------
